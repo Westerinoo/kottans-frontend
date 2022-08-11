@@ -16,8 +16,7 @@
 <details>
     <summary>Git_Screenshots</summary>
 
-![git-1](./git/task_git_collaboration/git-1.png)
-
+![git-1](./task_git_collaboration/git-1.png)
 
 ![git-2](./task_git_collaboration/git-2.png)
 </details>
