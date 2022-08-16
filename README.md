@@ -20,3 +20,15 @@
 
 ![git-2](./task_git_collaboration/git-2.png)
 </details>
+
+## Intro to HTML and CSS
+
+<details>
+    <summary> html-css Screenshots</summary>
+
+  ![html-1](./task_html_css_intro/html-css-1.png)
+
+  ![html-2](./task_html_css_intro/html_css-2.png)  
+
+  ![html-3](./task_html_css_intro/html_css-3.png)
+</details>    
