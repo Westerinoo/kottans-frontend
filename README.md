@@ -36,7 +36,7 @@
 ## Responsive Web Design
 
 <details>
-    <summary></summary>
+    <summary> flex-grid Screenshots</summary>
 
   ![flex](/task_responsive_web_design/frog-flex.png)  
 
