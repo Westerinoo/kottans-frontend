@@ -31,4 +31,15 @@
   ![html-2](./task_html_css_intro/html_css-2.png)  
 
   ![html-3](./task_html_css_intro/html_css-3.png)
-</details>    
+</details>  
+
+## Responsive Web Design
+
+<details>
+    <summary></summary>
+
+  ![flex](/task_responsive_web_design/frog-flex.png)  
+
+  ![grid](/task_responsive_web_design/grid-garden.png)
+
+  </details>
