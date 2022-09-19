@@ -50,6 +50,7 @@
 
   </details>
 
+<<<<<<< HEAD
 ## JS Basics
 
 <details>
@@ -62,3 +63,8 @@
 ![js-3](/task_js_basics/js-basic3.png)
 
 </details>
+=======
+## HTML-CSS_PopUp
+[code](https://github.com/Westerinoo/HTML-CSS_PopUp) |
+[Demo](https://westerinoo.github.io/HTML-CSS_PopUp/)
+>>>>>>> d83e436755631e0a1e17e598ba6c663342773886
